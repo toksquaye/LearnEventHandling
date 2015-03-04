@@ -1,0 +1,6 @@
+c:\users\toks\documents\visual studio 2013\Projects\LearnEventHandling\LearnEventHandling\bin\Debug\LearnEventHandling.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\LearnEventHandling\LearnEventHandling\bin\Debug\LearnEventHandling.exe
+c:\users\toks\documents\visual studio 2013\Projects\LearnEventHandling\LearnEventHandling\bin\Debug\LearnEventHandling.pdb
+c:\users\toks\documents\visual studio 2013\Projects\LearnEventHandling\LearnEventHandling\obj\Debug\LearnEventHandling.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\LearnEventHandling\LearnEventHandling\obj\Debug\LearnEventHandling.exe
+c:\users\toks\documents\visual studio 2013\Projects\LearnEventHandling\LearnEventHandling\obj\Debug\LearnEventHandling.pdb

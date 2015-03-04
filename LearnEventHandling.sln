@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnEventHandling", "LearnEventHandling\LearnEventHandling.csproj", "{5587EAA8-E7F8-4E4E-8C91-AB1914A233D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci_ThreadPool", "Fibonacci_ThreadPool\Fibonacci_ThreadPool.csproj", "{6104E801-2AF4-4C35-ADE4-F3A3623D00AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadLocal", "ThreadLocal\ThreadLocal.csproj", "{E296FBCC-574E-44D1-89BB-14906B6BD438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5587EAA8-E7F8-4E4E-8C91-AB1914A233D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5587EAA8-E7F8-4E4E-8C91-AB1914A233D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5587EAA8-E7F8-4E4E-8C91-AB1914A233D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5587EAA8-E7F8-4E4E-8C91-AB1914A233D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6104E801-2AF4-4C35-ADE4-F3A3623D00AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6104E801-2AF4-4C35-ADE4-F3A3623D00AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6104E801-2AF4-4C35-ADE4-F3A3623D00AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6104E801-2AF4-4C35-ADE4-F3A3623D00AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E296FBCC-574E-44D1-89BB-14906B6BD438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E296FBCC-574E-44D1-89BB-14906B6BD438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E296FBCC-574E-44D1-89BB-14906B6BD438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E296FBCC-574E-44D1-89BB-14906B6BD438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
